@@ -1,0 +1,9 @@
+C:\Users\itcdnet10\source\repos\CoreMVC\obj\Debug\net6.0\CoreMVC.csproj.AssemblyReference.cache
+C:\Users\itcdnet10\source\repos\CoreMVC\obj\Debug\net6.0\CoreMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itcdnet10\source\repos\CoreMVC\obj\Debug\net6.0\CoreMVC.AssemblyInfoInputs.cache
+C:\Users\itcdnet10\source\repos\CoreMVC\obj\Debug\net6.0\CoreMVC.AssemblyInfo.cs
+C:\Users\itcdnet10\source\repos\CoreMVC\obj\Debug\net6.0\CoreMVC.csproj.CoreCompileInputs.cache
+C:\Users\itcdnet10\source\repos\CoreMVC\obj\Debug\net6.0\CoreMVC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\itcdnet10\source\repos\CoreMVC\obj\Debug\net6.0\CoreMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\itcdnet10\source\repos\CoreMVC\obj\Debug\net6.0\CoreMVC.RazorAssemblyInfo.cache
+C:\Users\itcdnet10\source\repos\CoreMVC\obj\Debug\net6.0\CoreMVC.RazorAssemblyInfo.cs
